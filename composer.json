@@ -1,0 +1,12 @@
+{
+    "name": "owenmorrill/projcheck",
+    "description": "Testing Snyk PR checks",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Owen Morrill",
+            "email": "owen.morrill@snyk.io"
+        }
+    ],
+    "require": {}
+}
