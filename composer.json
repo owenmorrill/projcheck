@@ -1,12 +1,14 @@
 {
-    "name": "owenmorrill/projcheck",
+    "name": "c.biggles/projcheck",
     "description": "Testing Snyk PR checks",
     "type": "project",
     "authors": [
         {
-            "name": "Owen Morrill",
-            "email": "owen.morrill@snyk.io"
+            "name": "Cardinal Biggles",
+            "email": "c.biggles@andnowforsomethingcompletelydifferent.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "6.5.5"
+    }
 }
